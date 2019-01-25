@@ -13,7 +13,7 @@ body {
 }
 p {
     font-family: 'Amatic SC', cursive;
-    font-size: 40px;
+    font-size: 25px;
     margin: 0 auto;
 
 }
@@ -128,7 +128,7 @@ h1 {
 }
 h3 {
   font-family: 'Amatic SC', cursive;
-  font-size: 50px;
+  font-size: 40px;
   font-weight: lighter;
   text-align: center;
   margin-top: 0;
@@ -228,6 +228,15 @@ h3 {
     h1 {
         font-size: 7em;
     }
+    h3 {
+        font-size: 20px;
+    }
+    p {
+        font-size: 10px;
+    }
+    #ruleclose {
+        font-size:  10px;
+    }
 }
 
 /* galaxy S5  */
@@ -239,6 +248,15 @@ h3 {
     h1 {
         font-size: 6em;
     }
+    h3 {
+        font-size: 20px;
+    }
+    p {
+        font-size: 10px;
+    }
+    #ruleclose {
+        font-size:  10px;
+    }
 }
 
 /* iPhone X */
@@ -249,6 +267,15 @@ h3 {
     }
     h1 {
         font-size: 8em;
+    }
+    h3 {
+        font-size: 20px;
+    }
+    p {
+        font-size: 10px;
+    }
+    #ruleclose {
+        font-size:  10px;
     }
 }
 
@@ -264,6 +291,15 @@ h3 {
     h1 {
         font-size: 9em;
     }
+    h3 {
+        font-size: 20px;
+    }
+    p {
+        font-size: 10px;
+    }
+    #ruleclose {
+        font-size:  10px;
+    }
 }
 
 /* Multi Sizes */
@@ -278,6 +314,15 @@ h3 {
     h1 {
         font-size: 9em;
     }
+    h3 {
+        font-size: 20px;
+    }
+    p {
+        font-size: 10px;
+    }
+    #ruleclose {
+        font-size:  10px;
+    }
 }
 @media only screen and (min-width: 666px) and (max-width: 754px) {
     .card, .back, .front {
@@ -289,6 +334,15 @@ h3 {
     }
     h1 {
         font-size: 9em;
+    }
+    h3 {
+        font-size: 20px;
+    }
+    p {
+        font-size: 10px;
+    }
+    #ruleclose {
+        font-size:  10px;
     }
 }
 @media only screen and (min-width: 754px) and (max-width: 850px) {
@@ -302,6 +356,15 @@ h3 {
     h1 {
         font-size: 11em;
     }
+    h3 {
+        font-size: 40px;
+    }
+    p {
+        font-size: 20px;
+    }
+    #ruleclose {
+        font-size:  20px;
+    }
 }
 @media only screen and (min-width: 850px) and (max-width: 966px) {
     .card, .back, .front {
@@ -313,6 +376,15 @@ h3 {
     }
     h1 {
         font-size: 12em;
+    } 
+    h3 {
+        font-size: 40px;
+    }
+    p {
+        font-size: 20px;
+    }
+    #ruleclose {
+        font-size:  20px;
     }
 }
 
@@ -324,6 +396,15 @@ h3 {
     }
     body {
         overflow-y: auto;
+    }
+    h3 {
+        font-size: 40px;
+    }
+    p {
+        font-size: 20px;
+    }
+    #ruleclose {
+        font-size:  20px;
     }
 }
 
@@ -338,5 +419,14 @@ h3 {
     }
     h1 {
         font-size: 15em;
+    }
+    h3 {
+        font-size: 40px;
+    }
+    p {
+        font-size: 20px;
+    }
+    #ruleclose {
+        font-size:  20px;
     }
 }
