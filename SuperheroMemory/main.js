@@ -56,7 +56,7 @@ const match = () => {
   selected.forEach(card => {
     card.classList.add('match');
     matchCount++
-    if (matchCount == 2) {
+    if (matchCount == 24) {
         congratz();
         startTimer();
         console.log('You matched a Hero!');
