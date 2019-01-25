@@ -142,7 +142,7 @@ h3 {
     left: 20%;
     right: 20%;
     background: rgb(124, 10, 2);
-    border-radius: 5%;
+    border-radius: 2%;
     transition: opacity 500ms;
     z-index: 50;
     opacity: 1;
@@ -229,10 +229,10 @@ h3 {
         font-size: 7em;
     }
     h3 {
-        font-size: 20px;
+        font-size: 25px;
     }
     p {
-        font-size: 10px;
+        font-size: 20px;
     }
     #ruleclose {
         font-size:  10px;
@@ -249,10 +249,10 @@ h3 {
         font-size: 6em;
     }
     h3 {
-        font-size: 20px;
+        font-size: 25px;
     }
     p {
-        font-size: 10px;
+        font-size: 20px;
     }
     #ruleclose {
         font-size:  10px;
@@ -269,10 +269,10 @@ h3 {
         font-size: 8em;
     }
     h3 {
-        font-size: 20px;
+        font-size: 25px;
     }
     p {
-        font-size: 10px;
+        font-size: 20px;
     }
     #ruleclose {
         font-size:  10px;
@@ -292,10 +292,10 @@ h3 {
         font-size: 9em;
     }
     h3 {
-        font-size: 20px;
+        font-size: 25px;
     }
     p {
-        font-size: 10px;
+        font-size: 20px;
     }
     #ruleclose {
         font-size:  10px;
@@ -315,10 +315,10 @@ h3 {
         font-size: 9em;
     }
     h3 {
-        font-size: 20px;
+        font-size: 25px;
     }
     p {
-        font-size: 10px;
+        font-size: 20px;
     }
     #ruleclose {
         font-size:  10px;
@@ -336,10 +336,10 @@ h3 {
         font-size: 9em;
     }
     h3 {
-        font-size: 20px;
+        font-size: 25px;
     }
     p {
-        font-size: 10px;
+        font-size: 20px;
     }
     #ruleclose {
         font-size:  10px;
@@ -424,7 +424,7 @@ h3 {
         font-size: 40px;
     }
     p {
-        font-size: 20px;
+        font-size: 25px;
     }
     #ruleclose {
         font-size:  20px;
